@@ -3,7 +3,7 @@
 
 Project : React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+see your site [Create React App]([https://github.com/facebook/create-react-app](https://maz-shop.netlify.app/)).
 
 ## Available Scripts
 
